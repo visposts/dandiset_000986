@@ -5,9 +5,9 @@
 Build all figures and generate index:
 
 ```bash
-snakemake
+snakemake --core 1
 ```
 
 ## Adding Sessions
 
-Edit `sessions.yaml` and run `snakemake`.
+Edit `sessions.yaml` and run `snakemake --core 1`.

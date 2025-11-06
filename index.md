@@ -18,5 +18,5 @@ sub-LA11/sub-LA11_ses-3_behavior.nwb
 
 sub-LA11/sub-LA11_ses-4_behavior.nwb
 
-<iframe src="https://figures.figpack.org/figures/default/c7898573e9b653f353acc418/index.html" width="100%" height="800px" style="border:none;"></iframe>
+<iframe src="https://figures.figpack.org/figures/default/680c47d949145c1d94b6e161/index.html" width="100%" height="800px" style="border:none;"></iframe>
 
