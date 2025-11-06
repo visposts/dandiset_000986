@@ -1,5 +1,7 @@
 This page presents data visualizations for sessions from [Dandiset 000986](https://dandiarchive.org/dandiset/000986).
 
+Source code for generating these figures is available [here](https://github.com/visposts/dandiset_000986).
+
 
 ## sub-LA11/sub-LA11_ses-1_behavior.nwb
 
