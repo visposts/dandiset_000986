@@ -3,20 +3,40 @@
 
 sub-LA11/sub-LA11_ses-1_behavior.nwb
 
-<iframe src="https://figures.figpack.org/figures/default/f176e1ad4d2201b6d7d5484f/index.html" width="100%" height="800px" style="border:none;"></iframe>
+<iframe src="https://figures.figpack.org/figures/default/5c5cc109bc9926036c4b97f3/index.html" width="100%" height="800px" style="border:none;"></iframe>
 
 
 sub-LA11/sub-LA11_ses-2_behavior.nwb
 
-<iframe src="https://figures.figpack.org/figures/default/f5b2445ffce5b07576412f6e/index.html" width="100%" height="800px" style="border:none;"></iframe>
+<iframe src="https://figures.figpack.org/figures/default/ecad9b65e5055f95c22ab393/index.html" width="100%" height="800px" style="border:none;"></iframe>
 
 
 sub-LA11/sub-LA11_ses-3_behavior.nwb
 
-<iframe src="https://figures.figpack.org/figures/default/a1271cc3be5e4fa743dd1d39/index.html" width="100%" height="800px" style="border:none;"></iframe>
+<iframe src="https://figures.figpack.org/figures/default/4beedaaf137c95c4ad30c806/index.html" width="100%" height="800px" style="border:none;"></iframe>
 
 
 sub-LA11/sub-LA11_ses-4_behavior.nwb
 
-<iframe src="https://figures.figpack.org/figures/default/680c47d949145c1d94b6e161/index.html" width="100%" height="800px" style="border:none;"></iframe>
+<iframe src="https://figures.figpack.org/figures/default/410a9945d89c4676f6ffa293/index.html" width="100%" height="800px" style="border:none;"></iframe>
+
+
+sub-LA12/sub-LA12_ses-1_behavior.nwb
+
+<iframe src="https://figures.figpack.org/figures/default/4c78af179237689104350789/index.html" width="100%" height="800px" style="border:none;"></iframe>
+
+
+sub-LA12/sub-LA12_ses-2_behavior.nwb
+
+<iframe src="https://figures.figpack.org/figures/default/fc4ca7acafa33411fd3a0c90/index.html" width="100%" height="800px" style="border:none;"></iframe>
+
+
+sub-LA12/sub-LA12_ses-3_behavior.nwb
+
+<iframe src="https://figures.figpack.org/figures/default/51a2de4244bbf6f1c36406e4/index.html" width="100%" height="800px" style="border:none;"></iframe>
+
+
+sub-LA12/sub-LA12_ses-4_behavior.nwb
+
+<iframe src="https://figures.figpack.org/figures/default/74ce4cb1b660863e37863b60/index.html" width="100%" height="800px" style="border:none;"></iframe>
 
