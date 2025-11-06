@@ -1,0 +1,19 @@
+dandiset_id: "000986"
+subject: "sub-LA11"
+
+sessions:
+  - session_id: "ses-1"
+    nwb_path: "sub-LA11/sub-LA11_ses-1_behavior.nwb"
+    title: "Session 1"
+  
+  - session_id: "ses-2"
+    nwb_path: "sub-LA11/sub-LA11_ses-2_behavior.nwb"
+    title: "Session 2"
+
+  - session_id: "ses-3"
+    nwb_path: "sub-LA11/sub-LA11_ses-3_behavior.nwb"
+    title: "Session 3"
+
+  - session_id: "ses-4"
+    nwb_path: "sub-LA11/sub-LA11_ses-4_behavior.nwb"
+    title: "Session 4"
