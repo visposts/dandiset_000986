@@ -1,7 +1,7 @@
-# [Dandiset {{ dandiset_id }}](https://dandiarchive.org/dandiset/{{ dandiset_id }})
+This page presents data visualizations for sessions from [Dandiset {{ dandiset_id }}](https://dandiarchive.org/dandiset/{{ dandiset_id }}).
 
 {% for session in sessions %}
-{{ session.nwb_path }}
+## {{ session.nwb_path }}
 
 <iframe src="{{ session.figure_url }}" width="100%" height="800px" style="border:none;"></iframe>
 
